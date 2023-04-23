@@ -1,1 +1,2 @@
-# GAdamkiewicz.github.io
+# CV
+Strona na potrzeby kursu aplikacji internetowych. 
